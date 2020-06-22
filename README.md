@@ -1,6 +1,6 @@
 # ecswhoami
 
-![Test](https://github.com/mhemmings/ecswhoami/workflows/Test/badge.svg?branch=master)
+[![Test](https://github.com/mhemmings/ecswhoami/workflows/Test/badge.svg?branch=master)](https://github.com/mhemmings/ecswhoami/actions?query=workflow%3ATest)
 [![GoDoc](https://godoc.org/github.com/apex/log?status.svg)](https://godoc.org/github.com/mhemmings/ecswhoami)
 
 
